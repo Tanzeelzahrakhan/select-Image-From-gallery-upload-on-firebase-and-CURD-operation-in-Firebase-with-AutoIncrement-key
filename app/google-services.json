@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "779807154334",
+    "firebase_url": "https://crudoperation-635ff-default-rtdb.firebaseio.com",
+    "project_id": "crudoperation-635ff",
+    "storage_bucket": "crudoperation-635ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779807154334:android:1e9406db1f53fce86a1b8f",
+        "android_client_info": {
+          "package_name": "com.example.crudoperation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779807154334-itatsp46c4030bkhugbrc0a5e62imovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvXE5M04WIcTLDlrcVm47vC5W5Ifh-3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779807154334-itatsp46c4030bkhugbrc0a5e62imovr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779807154334:android:c511dcbdac8def736a1b8f",
+        "android_client_info": {
+          "package_name": "com.example.logicoffetchdatafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779807154334-itatsp46c4030bkhugbrc0a5e62imovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvXE5M04WIcTLDlrcVm47vC5W5Ifh-3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779807154334-itatsp46c4030bkhugbrc0a5e62imovr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
